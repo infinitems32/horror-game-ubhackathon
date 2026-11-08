@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ctpsnac4t8vwa"
+path="res://.godot/imported/RAINGlas_Storm and rain on car windshield (ID 1296)_BigSoundBank.com.wav-35849d1130234ac6a70f4454f43ac59f.sample"
+
+[deps]
+
+source_file="res://RAINGlas_Storm and rain on car windshield (ID 1296)_BigSoundBank.com.wav"
+dest_files=["res://.godot/imported/RAINGlas_Storm and rain on car windshield (ID 1296)_BigSoundBank.com.wav-35849d1130234ac6a70f4454f43ac59f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=2
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
